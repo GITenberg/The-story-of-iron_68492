@@ -1,0 +1,27 @@
+_repo: The-story-of-iron_68492
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Samuel, Elizabeth I.
+    gutenberg_agent_id: '54798'
+    url: http://www.gutenberg.org/2009/agents/54798
+description: ''
+gutenberg_issued: '2022-07-10'
+identifiers:
+  gutenberg: '68492'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.hn5hv3
+pgterms:marc905: 20210514055612samuel
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Amber Black, Tim Lindell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: United States :Penn Publishing Co.,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The story of iron
+url: http://www.gutenberg.org/ebooks/68492
