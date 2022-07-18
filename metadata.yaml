@@ -1,11 +1,16 @@
 _repo: The-story-of-iron_68492
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68492-h/images/cover.jpg
 creator:
   author:
     agent_name: Samuel, Elizabeth I.
     gutenberg_agent_id: '54798'
     url: http://www.gutenberg.org/2009/agents/54798
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68492#The-story-of-iron
 gutenberg_issued: '2022-07-10'
 identifiers:
   gutenberg: '68492'
